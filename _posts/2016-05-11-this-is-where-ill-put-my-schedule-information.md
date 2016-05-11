@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "This is where I'll put my schedule information..."
-datePublished: '2016-05-11T16:31:53.788Z'
-dateModified: '2016-05-11T16:30:31.804Z'
+datePublished: '2016-05-11T16:32:43.712Z'
+dateModified: '2016-05-11T16:32:01.890Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-this-is-where-ill-put-my-schedule-information.md
