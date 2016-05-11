@@ -1,0 +1,28 @@
+name: Luke Jordan
+favicon: null
+layout_spectrum: 0.3833026550710201
+typography_spectrum: 0.030150162521749735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.45949408900924027
+  lightness: 0.5754061413463205
+  saturation: 0.47440243628807366
+  rhythmicContrast: 0.5137065136805177
+purpose: []
