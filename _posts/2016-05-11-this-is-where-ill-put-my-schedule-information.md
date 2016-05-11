@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "This is where I'll put my schedule information..."
-datePublished: '2016-05-11T16:32:43.712Z'
-dateModified: '2016-05-11T16:32:01.890Z'
+datePublished: '2016-05-11T16:33:13.007Z'
+dateModified: '2016-05-11T16:33:11.649Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-this-is-where-ill-put-my-schedule-information.md
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: this-is-where-ill-put-my-schedule-information/index.html
-_type: Article
+_type: WebPage
 
 ---
 This is where I'll put my schedule information...
