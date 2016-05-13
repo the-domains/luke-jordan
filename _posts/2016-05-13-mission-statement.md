@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Mission Statement
-datePublished: '2016-05-13T12:07:25.319Z'
-dateModified: '2016-05-13T12:06:02.810Z'
+datePublished: '2016-05-13T12:12:27.880Z'
+dateModified: '2016-05-13T12:12:22.104Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-mission-statement.md
@@ -18,7 +18,8 @@ publisher:
   favicon: null
 starred: false
 url: mission-statement/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mission Statement
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16d47bc4-818a-41de-8de3-2e67d8c0e7a1.jpg)
