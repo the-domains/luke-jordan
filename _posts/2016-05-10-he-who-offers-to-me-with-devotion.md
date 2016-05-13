@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: “He who offers to Me with devotion
-datePublished: '2016-05-13T13:11:27.429Z'
-dateModified: '2016-05-11T16:19:34.973Z'
+description: '“He who offers to Me with devotion '
+datePublished: '2016-05-13T13:20:13.821Z'
+dateModified: '2016-05-13T13:19:24.275Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-he-who-offers-to-me-with-devotion.md
@@ -21,7 +21,7 @@ url: he-who-offers-to-me-with-devotion/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4558481-5bf0-45a3-a3f1-1c9b0f72f3b9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ad7d51-4912-4d7e-a0fe-6280075cfcf3.jpg)
 
 "He who offers to Me with devotion
 
