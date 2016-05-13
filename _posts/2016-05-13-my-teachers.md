@@ -1,24 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: My Teachers
-datePublished: '2016-05-13T12:21:41.064Z'
-dateModified: '2016-05-13T12:21:18.924Z'
+datePublished: '2016-05-13T12:22:27.325Z'
+dateModified: '2016-05-13T12:22:18.934Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-13-my-teachers.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-13-my-teachers.md
+starred: true
 url: my-teachers/index.html
-_type: Article
+_type: WebPage
 
 ---
 My Teachers
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45714cde-baa1-4d7f-8dcf-4841c57a9267.jpg)
