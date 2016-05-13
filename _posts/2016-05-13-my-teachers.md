@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: My Teachers
-datePublished: '2016-05-13T12:24:52.151Z'
-dateModified: '2016-05-13T12:24:45.781Z'
+datePublished: '2016-05-13T12:27:31.704Z'
+dateModified: '2016-05-13T12:25:00.156Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-my-teachers.md
