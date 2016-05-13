@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Why should we study the philosophy of yoga?
-datePublished: '2016-05-13T13:44:49.182Z'
-dateModified: '2016-05-13T13:44:48.188Z'
+datePublished: '2016-05-13T13:56:13.223Z'
+dateModified: '2016-05-13T13:55:44.780Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-why-should-we-study-the-philosophy-of-yoga.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: why-should-we-study-the-philosophy-of-yoga/index.html
 _type: Article
 
