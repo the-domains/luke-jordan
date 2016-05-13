@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: And then some more stuff
-datePublished: '2016-05-11T16:38:09.549Z'
-dateModified: '2016-05-11T16:38:09.213Z'
+datePublished: '2016-05-13T12:25:40.203Z'
+dateModified: '2016-05-13T12:18:52.399Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-11-and-then-some-more-stuff.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-11-and-then-some-more-stuff.md
 url: and-then-some-more-stuff/index.html
 _type: Article
 
