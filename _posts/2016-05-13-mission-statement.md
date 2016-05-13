@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mission Statement
-datePublished: '2016-05-13T12:05:30.523Z'
-dateModified: '2016-05-13T12:05:05.509Z'
+datePublished: '2016-05-13T12:05:54.730Z'
+dateModified: '2016-05-13T12:05:38.679Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-mission-statement.md
